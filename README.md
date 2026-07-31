@@ -26,6 +26,8 @@ A medical-tech frontend dashboard that visualizes diagnostic cellular data.
 * 👉 **[Code Repository](Your-Project-Repo-Link) | [Live Demo Application](Your-Live-Demo-Link)**
 
 ---
-🏆 Achievements
+### 🏆 Achievements
+
 ✨ NPTEL Elite Certificate
+
 ✨ Technical Symposium Participation
